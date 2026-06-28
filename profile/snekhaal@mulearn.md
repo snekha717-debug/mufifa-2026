@@ -41,7 +41,7 @@ The most memorable World Cup moment for me was watching **Argentina defeat Franc
 - ⭐ **Player Who Will Define the Tournament:** Lamine Yamal
 - ⚽ **Most Anticipated Match:** Argentina vs Brazil
 
-### 🎯 μFIFA World Cup 2026 - Tournament Goals
+### μFIFA World Cup 2026 - Tournament Goals
 
 By the end of μFIFA, I want to build impactful software projects, contribute to open-source initiatives, collaborate with talented developers, and strengthen my technical portfolio. I also hope to improve my problem-solving, teamwork, and leadership skills while making meaningful contributions to the μLearn community.
 
@@ -135,7 +135,7 @@ My goal is to become an AI Engineer or Software Engineer, building intelligent s
 <!-- Replace the embed link with your actual μLearn Profile -->
 
 <img
-    src="https://mulearn.org/embed/rank/yourname@mulearn"
+    src="https://mulearn.org/embed/rank/snekhaal@mulearn"
     width="400px">
 </img>
 ```
