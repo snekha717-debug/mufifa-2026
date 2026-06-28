@@ -134,4 +134,3 @@ My goal is to become an AI Engineer or Software Engineer, building intelligent s
     src="https://mulearn.org/embed/rank/snekhaal@mulearn"
     width="400px">
 </img>
-```
