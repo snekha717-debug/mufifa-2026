@@ -1,4 +1,3 @@
-```md
 # Snekha A L (AI & Software Developer | Student)
 
 ### Squad Domain: **Coder** | FIFA Nation: **🇦🇷 Argentina**
@@ -140,4 +139,3 @@ My goal is to become an AI Engineer or Software Engineer, building intelligent s
     width="400px">
 </img>
 ```
-
